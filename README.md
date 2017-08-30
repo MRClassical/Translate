@@ -43,7 +43,7 @@ $ sudo apt-get install curl
 
 $ git clone https://github.com/Paydar-robotic/Translate.git
 
-$ cd translate-bot && sudo chmod 777 launch.sh
+$ cd Translate && sudo chmod 777 launch.sh
 
 `
 
