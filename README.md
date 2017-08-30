@@ -1,6 +1,6 @@
 #translate bot
 
-ربات مترجم با دکمه شیشه ای نوشته شده توسط تیم قدرتمند کرول
+ربات مترجم با دکمه شیشه ای نوشته شده توسط تیم قدرتمند پایدار
 
 #آموزش نصب
 
@@ -41,14 +41,14 @@ $ sudo apt-get install curl
 
 
 
-$ git clone https://github.com/mohamadkhoshnava/translate-bot.git
+$ git clone https://github.com/Paydar-robotic/Translate.git
 
 $ cd translate-bot && sudo chmod 777 launch.sh
 
 `
 
 
-[cruel team](https://telegram.me/cruel_news)
+[Paydar Team](https://telegram.me/PaydarTeam)
 
 
-[M.KH](https://telegram.me/cruel)
+[Omid-Paydar](https://telegram.me/Omid_Paydar)
